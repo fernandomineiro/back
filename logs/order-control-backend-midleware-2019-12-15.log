@@ -1,0 +1,111 @@
+2019-12-15T20:23:01.820Z Server Init at 2019-12-15T20:23:01.786Z
+2019-12-15T20:30:29.829Z Unknown column 'age' in 'field list'
+2019-12-15T20:34:30.724Z Server Init at 2019-12-15T20:34:30.689Z
+2019-12-15T20:40:07.226Z Server Init at 2019-12-15T20:40:07.195Z
+2019-12-15T20:40:28.385Z Server Init at 2019-12-15T20:40:28.355Z
+2019-12-15T20:45:48.074Z Server Init at 2019-12-15T20:45:48.043Z
+2019-12-15T20:45:53.191Z uncaughtException: callback is not defined
+ReferenceError: callback is not defined
+    at Busboy.busboy.on (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\src\routes\images\clouduploader.js:56:9)
+    at Busboy.emit (events.js:182:13)
+    at Busboy.emit (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\busboy\lib\main.js:37:33)
+    at PartStream.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\busboy\lib\types\multipart.js:214:13)
+    at PartStream.emit (events.js:182:13)
+    at HeaderParser.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:50:16)
+    at HeaderParser.emit (events.js:182:13)
+    at HeaderParser._finish (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:182:13)
+    at SBMH._sbmh_feed (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:196:25)
+    at SBMH.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:126:10)
+    at SBMH.emit (events.js:182:13)
+    at SBMH._sbmh_feed (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at Dicer._write (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:108:17)
+    at doWrite (_stream_writable.js:410:12)
+    at writeOrBuffer (_stream_writable.js:394:5)
+    at Dicer.Writable.write (_stream_writable.js:294:11)
+2019-12-15T20:48:10.182Z Server Init at 2019-12-15T20:48:10.151Z
+2019-12-15T20:49:01.319Z Server Init at 2019-12-15T20:49:01.287Z
+2019-12-15T20:49:38.958Z Server Init at 2019-12-15T20:49:38.928Z
+2019-12-15T20:53:53.364Z Server Init at 2019-12-15T20:53:53.333Z
+2019-12-15T20:55:40.120Z Server Init at 2019-12-15T20:55:40.085Z
+2019-12-15T20:59:02.212Z Server Init at 2019-12-15T20:59:02.181Z
+2019-12-15T20:59:59.323Z Server Init at 2019-12-15T20:59:59.283Z
+2019-12-15T21:02:24.554Z Server Init at 2019-12-15T21:02:24.523Z
+2019-12-15T21:04:09.544Z Server Init at 2019-12-15T21:04:09.496Z
+2019-12-15T21:07:49.119Z Server Init at 2019-12-15T21:07:49.088Z
+2019-12-15T21:10:27.575Z Server Init at 2019-12-15T21:10:27.545Z
+2019-12-15T21:20:36.462Z Server Init at 2019-12-15T21:20:36.425Z
+2019-12-15T21:22:04.664Z WHERE parameter "id" has invalid "undefined" value
+2019-12-15T21:30:41.757Z Server Init at 2019-12-15T21:30:41.714Z
+2019-12-15T21:40:29.605Z Server Init at 2019-12-15T21:40:29.519Z
+2019-12-15T21:43:37.427Z Server Init at 2019-12-15T21:43:37.382Z
+2019-12-15T21:45:34.763Z Server Init at 2019-12-15T21:45:34.735Z
+2019-12-15T21:46:40.681Z Server Init at 2019-12-15T21:46:40.652Z
+2019-12-15T21:48:48.481Z Server Init at 2019-12-15T21:48:48.448Z
+2019-12-15T22:01:19.707Z Server Init at 2019-12-15T22:01:19.677Z
+2019-12-15T22:40:55.448Z Server Init at 2019-12-15T22:40:55.399Z
+2019-12-15T22:43:26.447Z Server Init at 2019-12-15T22:43:26.416Z
+2019-12-15T22:46:15.756Z Server Init at 2019-12-15T22:46:15.723Z
+2019-12-15T22:47:20.423Z Server Init at 2019-12-15T22:47:20.391Z
+2019-12-15T22:54:46.353Z Server Init at 2019-12-15T22:54:46.176Z
+2019-12-15T23:36:29.294Z Server Init at 2019-12-15T23:36:29.254Z
+2019-12-15T23:37:03.357Z Server Init at 2019-12-15T23:37:03.326Z
+2019-12-15T23:40:25.114Z Server Init at 2019-12-15T23:40:25.082Z
+2019-12-15T23:40:35.022Z ProductsModel.finOne is not a function
+2019-12-15T23:42:54.833Z Server Init at 2019-12-15T23:42:54.784Z
+2019-12-15T23:42:59.041Z ProductsModel.finOne is not a function
+2019-12-15T23:43:18.674Z ProductsModel.finOne is not a function
+2019-12-15T23:43:27.467Z Server Init at 2019-12-15T23:43:27.436Z
+2019-12-15T23:43:38.866Z Server Init at 2019-12-15T23:43:38.828Z
+2019-12-15T23:43:51.477Z ProductsModel.finOne is not a function
+2019-12-15T23:44:31.652Z ProductsModel.finOne is not a function
+2019-12-15T23:46:02.651Z Server Init at 2019-12-15T23:46:02.618Z
+2019-12-15T23:51:08.132Z Server Init at 2019-12-15T23:51:08.102Z
+2019-12-15T23:54:16.843Z Server Init at 2019-12-15T23:54:16.806Z
+2019-12-15T23:56:33.502Z Server Init at 2019-12-15T23:56:33.470Z
+2019-12-16T00:00:27.982Z Server Init at 2019-12-16T00:00:27.953Z
+2019-12-16T00:03:10.397Z Server Init at 2019-12-16T00:03:10.366Z
+2019-12-16T00:09:00.375Z Server Init at 2019-12-16T00:09:00.343Z
+2019-12-16T00:09:17.685Z Server Init at 2019-12-16T00:09:17.650Z
+2019-12-16T00:09:22.433Z uncaughtException: The "path" argument must be of type string. Received type undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+    at assertPath (path.js:39:11)
+    at Object.join (path.js:432:7)
+    at Busboy.busboy.on (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\src\routes\images\clouduploader.js:53:25)
+    at Busboy.emit (events.js:182:13)
+    at Busboy.emit (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\busboy\lib\main.js:37:33)
+    at PartStream.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\busboy\lib\types\multipart.js:214:13)
+    at PartStream.emit (events.js:182:13)
+    at HeaderParser.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:50:16)
+    at HeaderParser.emit (events.js:182:13)
+    at HeaderParser._finish (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:182:13)
+    at SBMH._sbmh_feed (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:196:25)
+    at SBMH.<anonymous> (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:126:10)
+    at SBMH.emit (events.js:182:13)
+    at SBMH._sbmh_feed (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at Dicer._write (c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\node_modules\dicer\lib\Dicer.js:108:17)
+    at doWrite (_stream_writable.js:410:12)
+2019-12-16T00:09:32.817Z Server Init at 2019-12-16T00:09:32.783Z
+2019-12-16T00:09:36.949Z uncaughtException: ENOENT: no such file or directory, open 'c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\src\uploads\images\foods\3e7acba619248d3388b930002ee0a988.jpg'
+Error: ENOENT: no such file or directory, open 'c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\src\uploads\images\foods\3e7acba619248d3388b930002ee0a988.jpg'
+2019-12-16T00:09:46.905Z Server Init at 2019-12-16T00:09:46.872Z
+2019-12-16T00:10:00.824Z Server Init at 2019-12-16T00:10:00.793Z
+2019-12-16T00:10:04.296Z uncaughtException: ENOENT: no such file or directory, open 'c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\src\uploads\images\foods\6986237d8091034cc202f02b186711db.jpg'
+Error: ENOENT: no such file or directory, open 'c:\Users\Pc\Documents\4 B DIGITAL UP\PROJETOS\NH\REPRESENTANTES\backend\src\uploads\images\foods\6986237d8091034cc202f02b186711db.jpg'
+2019-12-16T00:10:48.169Z Server Init at 2019-12-16T00:10:48.137Z
+2019-12-16T00:10:57.054Z Server Init at 2019-12-16T00:10:57.016Z
+2019-12-16T00:14:09.407Z Server Init at 2019-12-16T00:14:09.372Z
+2019-12-16T00:16:00.351Z Server Init at 2019-12-16T00:16:00.320Z
+2019-12-16T00:19:01.279Z Server Init at 2019-12-16T00:19:01.249Z
+2019-12-16T00:43:08.974Z Server Init at 2019-12-16T00:43:08.944Z

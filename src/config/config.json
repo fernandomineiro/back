@@ -1,0 +1,36 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "banco",
+    "host": "localhost",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "supportBigNumbers": true,
+      "bigNumberStrings": true,
+      "useUTC": true
+    },
+    "logging": false,
+    "timezone": "-02:00"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": "",
+    "database": "sds",
+    "host": "localhost",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "supportBigNumbers": true,
+      "bigNumberStrings": true
+    },
+    "logging": false
+  }
+}
