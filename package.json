@@ -8,7 +8,7 @@
     "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
-  "author": "Henrique",
+  "author": "Fernando Fernandes",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
